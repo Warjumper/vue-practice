@@ -24,9 +24,10 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-tutorial;
+### tutorial;
 - https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia
-bug/problem;
+
+### bug/problem;
 - component registered but not used so could not npm run serve
 - Google has determined its Eslint
 - https://stackoverflow.com/questions/59821385/component-has-been-registered-but-not-used-vue-no-unused-components
